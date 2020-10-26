@@ -1,0 +1,38 @@
+.list-item
+	display: flex
+	align-items: center
+	justify-content: space-between
+	margin: 10px 0
+	border-radius: 20px
+	padding: 15px  20px
+	&:hover
+		background-color: rgba(#000, 0.2)
+	&:first-of-type
+		margin-top: 0
+	&:last-of-type
+		margin-bottom: 0
+	&__text
+		color: #ffffff
+		margin-right: 15px
+	&__operations
+		display: flex
+	&__button
+		cursor: pointer
+		background-color: transparent
+		border: none
+		outline: none
+		fill: #ffffff
+		&:hover
+			fill: darken(#ffffff, 25%)
+		&:active
+			fill: darken(#ffffff, 50%)
+		&:not(:last-child)
+			margin-right: 10px
+
+@media screen and ( max-width: 380px )
+	.list-item
+		&__operations
+			flex-direction: column
+		&__button
+			&:not(:last-of-type)
+				margin-bottom: 15px
