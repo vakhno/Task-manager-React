@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Task-manager-React/static/css/main.7e00da84.chunk.css",
+    "main.js": "/Task-manager-React/static/js/main.84dc3983.chunk.js",
+    "main.js.map": "/Task-manager-React/static/js/main.84dc3983.chunk.js.map",
+    "runtime-main.js": "/Task-manager-React/static/js/runtime-main.a12ef6a8.js",
+    "runtime-main.js.map": "/Task-manager-React/static/js/runtime-main.a12ef6a8.js.map",
+    "static/js/2.bce0bf0d.chunk.js": "/Task-manager-React/static/js/2.bce0bf0d.chunk.js",
+    "static/js/2.bce0bf0d.chunk.js.map": "/Task-manager-React/static/js/2.bce0bf0d.chunk.js.map",
+    "index.html": "/Task-manager-React/index.html",
+    "precache-manifest.e888ac7921d39f44c2f25e9620c0e7ad.js": "/Task-manager-React/precache-manifest.e888ac7921d39f44c2f25e9620c0e7ad.js",
+    "service-worker.js": "/Task-manager-React/service-worker.js",
+    "static/css/main.7e00da84.chunk.css.map": "/Task-manager-React/static/css/main.7e00da84.chunk.css.map",
+    "static/js/2.bce0bf0d.chunk.js.LICENSE.txt": "/Task-manager-React/static/js/2.bce0bf0d.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/Task-manager-React/static/media/background.77a10ed4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12ef6a8.js",
+    "static/js/2.bce0bf0d.chunk.js",
+    "static/css/main.7e00da84.chunk.css",
+    "static/js/main.84dc3983.chunk.js"
+  ]
+}
