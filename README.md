@@ -1,5 +1,8 @@
 [See result](https://vakhno.github.io/Task-manager-React/)
-
+### In the project I used:
+  - React.js(create react app)
+  - React Hooks(useState, useContext, useEffect)
+  
 ## Available Scripts
 
 In the project directory, you can run:
